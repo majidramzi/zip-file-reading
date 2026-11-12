@@ -4,7 +4,7 @@ Browse the contents of a ZIP archive in your browser, without extracting it.
 
 The archive is read locally on your device. Nothing is uploaded, and once the page has loaded it makes no network requests.
 
-![ZIP File Viewer showing a folder tree and a syntax-highlighted file](docs/Screenshot.png)
+![ZIP File Viewer showing a folder tree and a syntax-highlighted file](doc/Screenshot.png)
 
 ## Features
 
