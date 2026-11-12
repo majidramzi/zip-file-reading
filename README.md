@@ -6,6 +6,10 @@ The archive is read locally on your device. Nothing is uploaded, and once the pa
 
 ![ZIP File Viewer showing a folder tree and a syntax-highlighted file](doc/Screenshot.png)
 
+# ZIP File Reader
+
+🌐 **Live Demo:** [https://majidramzi.github.io/zip-file-reading/](https://majidramzi.github.io/zip-file-reading/)
+
 ## Features
 
 - **Open an archive** by dragging it onto the page or by picking it from disk.
